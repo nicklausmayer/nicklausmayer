@@ -1,4 +1,30 @@
-### Hi there 👋
+<h1>Welcome to my GitHub! My name is Nicklaus Mayer, <br/><a href="https://github.com/nicklausmayer">Programmer</a> and <a href="https://www.linkedin.com/in/nicklausmayer/">Administrator</a>
+
+<h2>🔐 Cybersecurity Projects:</h2>
+
+- <b>Python</b>
+  - TBC
+- <b>PowerShell</b>
+  - TBC
+- <b>Bash</b>
+  - TBC
+- <b>JavaScript (learning)</b>
+  - TBC
+
+<h2>📚 School Projects:</h2>
+
+- <b>Java</b>
+  - TBC
+
+<h2>👨‍💻 Personal Projects:</h2>
+
+- <b>Open Source SIEM</b>
+  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI)
+
+
+<h2>Connect with me:</h2>
+<a href="mailto:nicklaus.j.mayer@gmail.com"><img align="left" alt="Nicklaus Mayer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gmail.svg" /></a>
+<a href="https://linkedin.com/in/nicklausmayer"><img align="left" alt="Nicklaus Mayer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/linkedin.svg"/></a>
 
 <!--
 **nicklausmayer/nicklausmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
