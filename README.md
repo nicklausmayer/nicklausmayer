@@ -5,7 +5,7 @@
 - <b>Open Source SIEM</b>
   - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI)
 - <b>Java</b>
-  - [X.509 Certificate and CRL Generation](https://github.com/nicklausmayer/java-certs)
+  - [X.509, PKCS7, PKCS12 Certificate and CRL Generation](https://github.com/nicklausmayer/java-certs)
 
 <h2>📚 School Projects:</h2>
 
