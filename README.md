@@ -2,25 +2,15 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  - TBC
-- <b>PowerShell</b>
-  - TBC
-- <b>Bash</b>
-  - TBC
-- <b>JavaScript (learning)</b>
-  - TBC
+- <b>Open Source SIEM</b>
+  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI)
+- <b>Java</b>
+  - [X.509 Certificate and CRL Generation](https://github.com/nicklausmayer/java-certs)
 
 <h2>📚 School Projects:</h2>
 
 - <b>Java</b>
   - TBC
-
-<h2>👨‍💻 Personal Projects:</h2>
-
-- <b>Open Source SIEM</b>
-  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI)
-
 
 <h2>Connect with me:</h2>
 <a href="mailto:nicklaus.j.mayer@gmail.com"><img align="left" alt="Nicklaus Mayer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gmail.svg" /></a>
