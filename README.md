@@ -3,9 +3,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Open Source SIEM</b>
-  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI)
-- <b>Java</b>
-  - [X.509, PKCS7, PKCS12 Certificate, OCSP and CRL Generation](https://github.com/nicklausmayer/java-certs)
+  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI) WIP
 
 <h2>📚 School Projects:</h2>
 
