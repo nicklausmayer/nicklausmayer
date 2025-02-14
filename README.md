@@ -4,6 +4,8 @@
 
 - <b>Bash Automated OpenSSL Certificate Generation</b>
   - [CA-Buildout](https://github.com/nicklausmayer/CA-Buildout)
+- <b>Home Lab</b>
+  - [HomeLab](https://github.com/nicklausmayer/HomeLab)
 
 <h2>📚 School Projects:</h2>
 
