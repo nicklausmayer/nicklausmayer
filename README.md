@@ -5,9 +5,6 @@
 - <b>Bash Automated OpenSSL Certificate Generation</b>
   - [CA-Buildout](https://github.com/nicklausmayer/CA-Buildout)
 
-- <b>Open Source SIEM</b>
-  - [Graylog & Wazuh SIEM with MISP threat intelligence](https://github.com/nicklausmayer/Grayzuh-SIEM-MISP-TI) WIP
-
 <h2>📚 School Projects:</h2>
 
 - <b>Java</b>
